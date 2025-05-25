@@ -1,0 +1,101 @@
+race_id,race_date,racecourse,country,race_type,race_class,race_distance,going,prize_money,position,horse_name,jockey,trainer,owner,age,official_rating,weight_carried,sp_odds,beat_favorite,finish_time,form,year,month,days_since_last_run,ground_preference,handicap,fractional_odds
+1001,2023-01-01,Ascot,France,Flat,Class 3,1m 2f,Firm,12725,1,Horse 44,Jockey 25,Trainer 11,Owner 24,3,61,13-10,1,False,0:02:30.621000,731,2023,1,58,Versatile,False,1/1
+1001,2023-01-01,Ascot,France,Flat,Class 3,1m 2f,Firm,12725,2,Horse 26,Jockey 22,Trainer 14,Owner 7,8,119,12-11,45,False,0:02:39.243000,217,2023,1,99,Versatile,False,44/1
+1001,2023-01-01,Ascot,France,Flat,Class 3,1m 2f,Firm,12725,3,Horse 147,Jockey 36,Trainer 32,Owner 5,2,96,8-10,30,False,0:01:38.843000,842,2023,1,21,Prefers Soft,True,29/1
+1001,2023-01-01,Ascot,France,Flat,Class 3,1m 2f,Firm,12725,4,Horse 7,Jockey 14,Trainer 11,Owner 21,6,60,15-6,10,False,0:02:45.482000,852,2023,1,78,Versatile,True,9/1
+1001,2023-01-01,Ascot,France,Flat,Class 3,1m 2f,Firm,12725,5,Horse 165,Jockey 35,Trainer 25,Owner 6,7,98,13-11,14,False,0:02:22.269000,885,2023,1,67,Prefers Firm,False,13/1
+1001,2023-01-01,Ascot,France,Flat,Class 3,1m 2f,Firm,12725,6,Horse 58,Jockey 18,Trainer 37,Owner 2,4,62,9-0,45,False,0:02:54.423000,491,2023,1,27,Versatile,True,44/1
+1001,2023-01-01,Ascot,France,Flat,Class 3,1m 2f,Firm,12725,7,Horse 100,Jockey 34,Trainer 27,Owner 18,12,110,17-1,18,False,0:02:39.080000,719,2023,1,89,Prefers Good,False,17/1
+1001,2023-01-01,Ascot,France,Flat,Class 3,1m 2f,Firm,12725,8,Horse 147,Jockey 34,Trainer 37,Owner 22,11,68,9-11,31,False,0:01:30.995000,443,2023,1,93,Prefers Good,True,30/1
+1001,2023-01-01,Ascot,France,Flat,Class 3,1m 2f,Firm,12725,9,Horse 11,Jockey 28,Trainer 6,Owner 22,8,75,10-4,41,False,0:02:40.932000,227,2023,1,81,Prefers Soft,False,40/1
+1001,2023-01-01,Ascot,France,Flat,Class 3,1m 2f,Firm,12725,10,Horse 143,Jockey 26,Trainer 36,Owner 11,6,116,15-9,3,False,0:03:59.601000,972,2023,1,81,Prefers Good,True,2/1
+1002,2023-01-01,Epsom,Ireland,Hurdle,Class 5,3m,Soft,16133,1,Horse 145,Jockey 50,Trainer 7,Owner 26,6,118,13-11,5,False,0:02:51.585000,813,2023,1,94,Prefers Good,True,4/1
+1002,2023-01-01,Epsom,Ireland,Hurdle,Class 5,3m,Soft,16133,2,Horse 71,Jockey 26,Trainer 10,Owner 20,11,101,8-1,28,False,0:02:35.050000,856,2023,1,30,Prefers Good,True,27/1
+1002,2023-01-01,Epsom,Ireland,Hurdle,Class 5,3m,Soft,16133,3,Horse 6,Jockey 22,Trainer 20,Owner 10,6,112,9-11,17,False,0:01:39.997000,865,2023,1,9,Prefers Soft,False,16/1
+1002,2023-01-01,Epsom,Ireland,Hurdle,Class 5,3m,Soft,16133,4,Horse 187,Jockey 27,Trainer 39,Owner 21,3,74,15-9,16,False,0:02:51.777000,961,2023,1,28,Prefers Soft,False,15/1
+1002,2023-01-01,Epsom,Ireland,Hurdle,Class 5,3m,Soft,16133,5,Horse 132,Jockey 11,Trainer 5,Owner 10,10,101,10-4,36,False,0:03:21.177000,441,2023,1,59,Versatile,False,35/1
+1002,2023-01-01,Epsom,Ireland,Hurdle,Class 5,3m,Soft,16133,6,Horse 64,Jockey 3,Trainer 30,Owner 2,7,75,12-11,26,False,0:02:52.406000,214,2023,1,8,Prefers Good,True,25/1
+1003,2023-01-01,Goodwood,USA,Bumper,Class 2,2m,Soft,75264,1,Horse 89,Jockey 11,Trainer 17,Owner 24,3,86,8-10,1,False,0:01:56.798000,444,2023,1,94,Versatile,False,1/1
+1003,2023-01-01,Goodwood,USA,Bumper,Class 2,2m,Soft,75264,2,Horse 174,Jockey 14,Trainer 18,Owner 21,8,115,8-10,46,False,0:01:50.933000,331,2023,1,36,Prefers Soft,True,45/1
+1003,2023-01-01,Goodwood,USA,Bumper,Class 2,2m,Soft,75264,3,Horse 58,Jockey 17,Trainer 39,Owner 26,6,85,14-1,27,False,0:02:49.258000,485,2023,1,44,Versatile,True,26/1
+1003,2023-01-01,Goodwood,USA,Bumper,Class 2,2m,Soft,75264,4,Horse 174,Jockey 34,Trainer 40,Owner 13,11,63,8-10,35,False,0:03:43.574000,552,2023,1,8,Versatile,True,34/1
+1003,2023-01-01,Goodwood,USA,Bumper,Class 2,2m,Soft,75264,5,Horse 124,Jockey 5,Trainer 22,Owner 9,12,91,12-11,19,False,0:03:39.192000,394,2023,1,70,Prefers Good,True,18/1
+1003,2023-01-01,Goodwood,USA,Bumper,Class 2,2m,Soft,75264,6,Horse 15,Jockey 39,Trainer 26,Owner 22,7,67,8-10,44,False,0:02:38.265000,777,2023,1,66,Prefers Soft,False,43/1
+1003,2023-01-01,Goodwood,USA,Bumper,Class 2,2m,Soft,75264,7,Horse 189,Jockey 3,Trainer 38,Owner 23,11,74,13-10,49,False,0:03:34.702000,986,2023,1,27,Prefers Good,False,48/1
+1003,2023-01-01,Goodwood,USA,Bumper,Class 2,2m,Soft,75264,8,Horse 130,Jockey 20,Trainer 11,Owner 27,12,73,12-1,9,False,0:02:28.758000,593,2023,1,39,Versatile,False,8/1
+1003,2023-01-01,Goodwood,USA,Bumper,Class 2,2m,Soft,75264,9,Horse 175,Jockey 22,Trainer 6,Owner 8,7,78,12-1,29,False,0:02:43.266000,582,2023,1,82,Prefers Soft,True,28/1
+1003,2023-01-01,Goodwood,USA,Bumper,Class 2,2m,Soft,75264,10,Horse 121,Jockey 4,Trainer 38,Owner 19,11,59,15-6,15,False,0:03:27.888000,795,2023,1,64,Versatile,False,14/1
+1004,2023-01-01,Epsom,UK,Hurdle,Class 2,1m,Good,56633,1,Horse 118,Jockey 10,Trainer 21,Owner 28,4,60,15-6,3,False,0:02:23.004000,854,2023,1,28,Versatile,False,2/1
+1004,2023-01-01,Epsom,UK,Hurdle,Class 2,1m,Good,56633,2,Horse 195,Jockey 50,Trainer 11,Owner 19,4,112,9-0,11,False,0:03:47.648000,777,2023,1,95,Prefers Good,False,10/1
+1004,2023-01-01,Epsom,UK,Hurdle,Class 2,1m,Good,56633,3,Horse 123,Jockey 25,Trainer 1,Owner 2,10,75,13-11,3,False,0:02:53.195000,114,2023,1,55,Prefers Soft,True,2/1
+1004,2023-01-01,Epsom,UK,Hurdle,Class 2,1m,Good,56633,4,Horse 58,Jockey 45,Trainer 23,Owner 10,4,63,14-8,35,False,0:03:39.171000,215,2023,1,97,Prefers Soft,False,34/1
+1004,2023-01-01,Epsom,UK,Hurdle,Class 2,1m,Good,56633,5,Horse 75,Jockey 30,Trainer 34,Owner 20,10,93,14-1,46,False,0:01:41.923000,864,2023,1,65,Prefers Good,True,45/1
+1004,2023-01-01,Epsom,UK,Hurdle,Class 2,1m,Good,56633,6,Horse 43,Jockey 26,Trainer 2,Owner 8,5,66,11-3,49,False,0:01:57.516000,326,2023,1,48,Prefers Firm,True,48/1
+1004,2023-01-01,Epsom,UK,Hurdle,Class 2,1m,Good,56633,7,Horse 183,Jockey 42,Trainer 3,Owner 13,12,82,16-0,42,False,0:01:58.049000,211,2023,1,98,Prefers Good,False,41/1
+1004,2023-01-01,Epsom,UK,Hurdle,Class 2,1m,Good,56633,8,Horse 177,Jockey 8,Trainer 27,Owner 15,8,65,16-0,19,False,0:02:29.210000,157,2023,1,66,Prefers Good,True,18/1
+1004,2023-01-01,Epsom,UK,Hurdle,Class 2,1m,Good,56633,9,Horse 170,Jockey 7,Trainer 34,Owner 9,11,67,14-1,9,False,0:03:59.120000,522,2023,1,86,Prefers Firm,True,8/1
+1004,2023-01-01,Epsom,UK,Hurdle,Class 2,1m,Good,56633,10,Horse 128,Jockey 13,Trainer 39,Owner 7,6,116,11-3,25,False,0:03:46.302000,319,2023,1,21,Prefers Soft,True,24/1
+1004,2023-01-01,Epsom,UK,Hurdle,Class 2,1m,Good,56633,11,Horse 128,Jockey 14,Trainer 31,Owner 11,5,50,8-10,45,False,0:01:27.855000,832,2023,1,68,Prefers Firm,True,44/1
+1004,2023-01-01,Epsom,UK,Hurdle,Class 2,1m,Good,56633,12,Horse 200,Jockey 33,Trainer 5,Owner 24,3,82,11-2,32,False,0:02:36.475000,123,2023,1,68,Versatile,False,31/1
+1004,2023-01-01,Epsom,UK,Hurdle,Class 2,1m,Good,56633,13,Horse 11,Jockey 19,Trainer 24,Owner 26,12,90,14-1,50,False,0:01:26.871000,113,2023,1,53,Versatile,False,49/1
+1004,2023-01-01,Epsom,UK,Hurdle,Class 2,1m,Good,56633,14,Horse 170,Jockey 42,Trainer 11,Owner 11,7,106,17-3,20,False,0:03:25.381000,632,2023,1,68,Prefers Good,True,19/1
+1005,2023-01-02,Epsom,USA,Bumper,Class 3,1m 6f,Heavy,65684,1,Horse 167,Jockey 11,Trainer 8,Owner 5,2,70,9-11,10,False,0:02:56.694000,837,2023,1,57,Versatile,False,9/1
+1005,2023-01-02,Epsom,USA,Bumper,Class 3,1m 6f,Heavy,65684,2,Horse 200,Jockey 23,Trainer 40,Owner 1,12,66,15-6,34,False,0:01:46.451000,125,2023,1,61,Prefers Firm,True,33/1
+1005,2023-01-02,Epsom,USA,Bumper,Class 3,1m 6f,Heavy,65684,3,Horse 168,Jockey 21,Trainer 1,Owner 23,12,117,17-1,49,False,0:03:34.978000,699,2023,1,70,Versatile,True,48/1
+1005,2023-01-02,Epsom,USA,Bumper,Class 3,1m 6f,Heavy,65684,4,Horse 177,Jockey 45,Trainer 40,Owner 4,8,81,15-6,25,False,0:03:44.152000,911,2023,1,9,Prefers Soft,True,24/1
+1005,2023-01-02,Epsom,USA,Bumper,Class 3,1m 6f,Heavy,65684,5,Horse 165,Jockey 11,Trainer 33,Owner 28,9,113,10-3,7,False,0:02:40.246000,651,2023,1,57,Prefers Good,False,6/1
+1005,2023-01-02,Epsom,USA,Bumper,Class 3,1m 6f,Heavy,65684,6,Horse 130,Jockey 15,Trainer 36,Owner 21,8,101,11-2,8,False,0:02:48.820000,828,2023,1,13,Prefers Good,True,7/1
+1005,2023-01-02,Epsom,USA,Bumper,Class 3,1m 6f,Heavy,65684,7,Horse 115,Jockey 21,Trainer 8,Owner 16,12,52,9-11,28,False,0:02:22.570000,912,2023,1,27,Prefers Soft,True,27/1
+1005,2023-01-02,Epsom,USA,Bumper,Class 3,1m 6f,Heavy,65684,8,Horse 155,Jockey 40,Trainer 20,Owner 29,10,76,15-9,24,False,0:02:23.836000,486,2023,1,79,Prefers Soft,False,23/1
+1005,2023-01-02,Epsom,USA,Bumper,Class 3,1m 6f,Heavy,65684,9,Horse 144,Jockey 50,Trainer 40,Owner 20,9,96,15-9,10,False,0:01:34.002000,665,2023,1,45,Prefers Good,False,9/1
+1005,2023-01-02,Epsom,USA,Bumper,Class 3,1m 6f,Heavy,65684,10,Horse 141,Jockey 34,Trainer 24,Owner 23,3,55,10-3,34,False,0:01:46.109000,544,2023,1,24,Prefers Soft,True,33/1
+1005,2023-01-02,Epsom,USA,Bumper,Class 3,1m 6f,Heavy,65684,11,Horse 31,Jockey 26,Trainer 14,Owner 15,5,93,9-11,29,False,0:01:57.126000,889,2023,1,10,Versatile,False,28/1
+1006,2023-01-02,Cheltenham,USA,Flat,Class 5,5f,Soft,59729,1,Horse 124,Jockey 33,Trainer 12,Owner 23,11,72,10-4,7,True,0:03:58.620000,697,2023,1,95,Versatile,True,6/1
+1006,2023-01-02,Cheltenham,USA,Flat,Class 5,5f,Soft,59729,2,Horse 108,Jockey 39,Trainer 16,Owner 9,8,93,12-1,31,False,0:01:28.422000,959,2023,1,66,Versatile,True,30/1
+1006,2023-01-02,Cheltenham,USA,Flat,Class 5,5f,Soft,59729,3,Horse 81,Jockey 46,Trainer 36,Owner 21,5,75,11-3,42,False,0:03:38.703000,633,2023,1,20,Versatile,True,41/1
+1006,2023-01-02,Cheltenham,USA,Flat,Class 5,5f,Soft,59729,4,Horse 129,Jockey 35,Trainer 21,Owner 23,3,95,16-0,33,False,0:03:56.965000,795,2023,1,15,Prefers Firm,True,32/1
+1006,2023-01-02,Cheltenham,USA,Flat,Class 5,5f,Soft,59729,5,Horse 109,Jockey 1,Trainer 34,Owner 4,2,98,10-4,6,False,0:03:23.204000,535,2023,1,96,Prefers Firm,True,5/1
+1006,2023-01-02,Cheltenham,USA,Flat,Class 5,5f,Soft,59729,6,Horse 175,Jockey 17,Trainer 10,Owner 27,2,87,11-3,37,False,0:01:42.833000,829,2023,1,59,Prefers Firm,False,36/1
+1006,2023-01-02,Cheltenham,USA,Flat,Class 5,5f,Soft,59729,7,Horse 58,Jockey 48,Trainer 36,Owner 13,5,115,12-1,47,False,0:03:23.948000,777,2023,1,8,Prefers Firm,False,46/1
+1006,2023-01-02,Cheltenham,USA,Flat,Class 5,5f,Soft,59729,8,Horse 176,Jockey 21,Trainer 36,Owner 2,2,82,11-3,42,False,0:02:34.933000,694,2023,1,90,Versatile,True,41/1
+1006,2023-01-02,Cheltenham,USA,Flat,Class 5,5f,Soft,59729,9,Horse 199,Jockey 47,Trainer 13,Owner 10,9,72,9-0,14,False,0:01:52.122000,717,2023,1,98,Versatile,True,13/1
+1006,2023-01-02,Cheltenham,USA,Flat,Class 5,5f,Soft,59729,10,Horse 72,Jockey 36,Trainer 17,Owner 5,4,82,8-10,24,False,0:02:29.040000,361,2023,1,66,Prefers Soft,False,23/1
+1006,2023-01-02,Cheltenham,USA,Flat,Class 5,5f,Soft,59729,11,Horse 199,Jockey 41,Trainer 40,Owner 27,12,88,15-6,39,False,0:03:42.074000,694,2023,1,77,Prefers Firm,True,38/1
+1006,2023-01-02,Cheltenham,USA,Flat,Class 5,5f,Soft,59729,12,Horse 48,Jockey 34,Trainer 5,Owner 26,10,70,14-1,37,False,0:03:45.094000,644,2023,1,50,Prefers Firm,True,36/1
+1006,2023-01-02,Cheltenham,USA,Flat,Class 5,5f,Soft,59729,13,Horse 170,Jockey 22,Trainer 22,Owner 12,6,77,17-3,36,False,0:02:55.843000,126,2023,1,14,Prefers Good,True,35/1
+1006,2023-01-02,Cheltenham,USA,Flat,Class 5,5f,Soft,59729,14,Horse 115,Jockey 16,Trainer 40,Owner 30,11,81,8-1,46,False,0:02:44.937000,275,2023,1,53,Prefers Soft,False,45/1
+1007,2023-01-02,Newbury,France,Flat,Class 5,1m 4f,Soft,69680,1,Horse 125,Jockey 3,Trainer 19,Owner 29,12,74,13-10,2,True,0:01:54.546000,124,2023,1,41,Versatile,True,2/1
+1007,2023-01-02,Newbury,France,Flat,Class 5,1m 4f,Soft,69680,2,Horse 172,Jockey 41,Trainer 14,Owner 28,12,104,9-11,16,False,0:03:47.662000,231,2023,1,84,Prefers Soft,True,15/1
+1007,2023-01-02,Newbury,France,Flat,Class 5,1m 4f,Soft,69680,3,Horse 118,Jockey 46,Trainer 22,Owner 2,3,59,8-1,14,False,0:02:55.072000,457,2023,1,87,Prefers Soft,True,13/1
+1007,2023-01-02,Newbury,France,Flat,Class 5,1m 4f,Soft,69680,4,Horse 100,Jockey 29,Trainer 26,Owner 14,7,52,14-8,46,False,0:01:54.006000,212,2023,1,42,Prefers Good,True,45/1
+1007,2023-01-02,Newbury,France,Flat,Class 5,1m 4f,Soft,69680,5,Horse 92,Jockey 33,Trainer 7,Owner 10,12,88,17-3,8,False,0:02:48.390000,718,2023,1,56,Prefers Good,True,7/1
+1007,2023-01-02,Newbury,France,Flat,Class 5,1m 4f,Soft,69680,6,Horse 41,Jockey 35,Trainer 15,Owner 5,8,119,12-1,43,False,0:01:39.693000,619,2023,1,10,Prefers Soft,False,42/1
+1007,2023-01-02,Newbury,France,Flat,Class 5,1m 4f,Soft,69680,7,Horse 143,Jockey 10,Trainer 8,Owner 2,2,100,16-0,38,False,0:01:39.215000,647,2023,1,8,Prefers Firm,False,37/1
+1007,2023-01-02,Newbury,France,Flat,Class 5,1m 4f,Soft,69680,8,Horse 166,Jockey 33,Trainer 10,Owner 6,4,78,17-3,19,False,0:01:27.185000,198,2023,1,12,Versatile,False,18/1
+1007,2023-01-02,Newbury,France,Flat,Class 5,1m 4f,Soft,69680,9,Horse 166,Jockey 36,Trainer 5,Owner 10,12,58,12-11,9,False,0:01:57.498000,663,2023,1,60,Prefers Good,False,8/1
+1007,2023-01-02,Newbury,France,Flat,Class 5,1m 4f,Soft,69680,10,Horse 172,Jockey 42,Trainer 16,Owner 4,6,58,11-3,23,False,0:02:48.336000,536,2023,1,10,Prefers Good,False,22/1
+1007,2023-01-02,Newbury,France,Flat,Class 5,1m 4f,Soft,69680,11,Horse 81,Jockey 28,Trainer 11,Owner 1,7,81,11-2,48,False,0:03:47.283000,636,2023,1,60,Versatile,True,47/1
+1007,2023-01-02,Newbury,France,Flat,Class 5,1m 4f,Soft,69680,12,Horse 123,Jockey 30,Trainer 29,Owner 12,6,112,16-0,9,False,0:01:58.083000,539,2023,1,99,Prefers Good,False,8/1
+1008,2023-01-02,Aintree,France,Flat,Class 6,6f,Firm,69476,1,Horse 8,Jockey 38,Trainer 38,Owner 13,11,77,8-1,9,False,0:03:50.669000,367,2023,1,69,Prefers Soft,True,8/1
+1008,2023-01-02,Aintree,France,Flat,Class 6,6f,Firm,69476,2,Horse 58,Jockey 50,Trainer 38,Owner 24,6,67,15-9,35,False,0:03:25.406000,691,2023,1,24,Versatile,False,34/1
+1008,2023-01-02,Aintree,France,Flat,Class 6,6f,Firm,69476,3,Horse 170,Jockey 16,Trainer 40,Owner 22,4,115,10-4,31,False,0:01:31.579000,386,2023,1,96,Prefers Firm,False,30/1
+1008,2023-01-02,Aintree,France,Flat,Class 6,6f,Firm,69476,4,Horse 11,Jockey 15,Trainer 32,Owner 8,3,83,13-11,17,False,0:01:33.530000,678,2023,1,50,Prefers Good,True,16/1
+1008,2023-01-02,Aintree,France,Flat,Class 6,6f,Firm,69476,5,Horse 117,Jockey 3,Trainer 3,Owner 21,7,63,16-0,43,False,0:02:36.592000,937,2023,1,40,Prefers Good,True,42/1
+1008,2023-01-02,Aintree,France,Flat,Class 6,6f,Firm,69476,6,Horse 168,Jockey 25,Trainer 24,Owner 19,12,59,16-0,19,False,0:02:34.528000,766,2023,1,80,Prefers Soft,True,18/1
+1008,2023-01-02,Aintree,France,Flat,Class 6,6f,Firm,69476,7,Horse 125,Jockey 31,Trainer 39,Owner 1,10,67,15-9,13,False,0:01:24.526000,543,2023,1,68,Prefers Firm,False,12/1
+1008,2023-01-02,Aintree,France,Flat,Class 6,6f,Firm,69476,8,Horse 48,Jockey 11,Trainer 24,Owner 20,3,79,14-1,24,False,0:03:27.493000,884,2023,1,20,Prefers Good,True,23/1
+1008,2023-01-02,Aintree,France,Flat,Class 6,6f,Firm,69476,9,Horse 152,Jockey 11,Trainer 27,Owner 1,5,55,10-4,39,False,0:03:30.137000,913,2023,1,54,Versatile,False,38/1
+1008,2023-01-02,Aintree,France,Flat,Class 6,6f,Firm,69476,10,Horse 15,Jockey 11,Trainer 17,Owner 30,4,116,14-8,41,False,0:03:21.899000,524,2023,1,21,Versatile,False,40/1
+1008,2023-01-02,Aintree,France,Flat,Class 6,6f,Firm,69476,11,Horse 115,Jockey 39,Trainer 31,Owner 28,9,71,11-2,29,False,0:03:29.813000,395,2023,1,78,Prefers Soft,True,28/1
+1008,2023-01-02,Aintree,France,Flat,Class 6,6f,Firm,69476,12,Horse 43,Jockey 47,Trainer 22,Owner 30,9,58,11-2,27,False,0:02:28.111000,149,2023,1,84,Prefers Soft,True,26/1
+1008,2023-01-02,Aintree,France,Flat,Class 6,6f,Firm,69476,13,Horse 130,Jockey 44,Trainer 27,Owner 27,4,62,10-3,33,False,0:03:58.039000,992,2023,1,93,Prefers Good,False,32/1
+1008,2023-01-02,Aintree,France,Flat,Class 6,6f,Firm,69476,14,Horse 24,Jockey 31,Trainer 9,Owner 29,11,119,8-10,46,False,0:03:47.534000,761,2023,1,68,Prefers Soft,False,45/1
+1008,2023-01-02,Aintree,France,Flat,Class 6,6f,Firm,69476,15,Horse 179,Jockey 34,Trainer 28,Owner 8,9,98,13-11,40,False,0:03:56.100000,735,2023,1,46,Versatile,True,39/1
+1009,2023-01-02,Doncaster,Ireland,Flat,Class 3,3m,Soft,56562,1,Horse 49,Jockey 1,Trainer 1,Owner 19,10,65,16-0,7,True,0:03:33.704000,676,2023,1,91,Prefers Soft,True,6/1
+1009,2023-01-02,Doncaster,Ireland,Flat,Class 3,3m,Soft,56562,2,Horse 28,Jockey 10,Trainer 28,Owner 21,11,82,12-11,37,False,0:02:56.374000,574,2023,1,86,Versatile,True,36/1
+1009,2023-01-02,Doncaster,Ireland,Flat,Class 3,3m,Soft,56562,3,Horse 106,Jockey 36,Trainer 36,Owner 16,4,97,16-0,38,False,0:02:36.314000,673,2023,1,88,Prefers Good,False,37/1
+1009,2023-01-02,Doncaster,Ireland,Flat,Class 3,3m,Soft,56562,4,Horse 169,Jockey 8,Trainer 15,Owner 15,4,62,11-3,35,False,0:02:41.820000,913,2023,1,59,Versatile,True,34/1
+1009,2023-01-02,Doncaster,Ireland,Flat,Class 3,3m,Soft,56562,5,Horse 100,Jockey 41,Trainer 1,Owner 26,3,68,15-6,41,False,0:02:25.065000,546,2023,1,30,Prefers Soft,False,40/1
+1009,2023-01-02,Doncaster,Ireland,Flat,Class 3,3m,Soft,56562,6,Horse 21,Jockey 39,Trainer 3,Owner 24,8,101,17-3,44,False,0:03:38.728000,138,2023,1,32,Versatile,False,43/1
+1009,2023-01-02,Doncaster,Ireland,Flat,Class 3,3m,Soft,56562,7,Horse 113,Jockey 1,Trainer 13,Owner 28,12,116,12-1,15,False,0:01:58.522000,943,2023,1,95,Versatile,True,14/1
+1009,2023-01-02,Doncaster,Ireland,Flat,Class 3,3m,Soft,56562,8,Horse 173,Jockey 3,Trainer 24,Owner 8,12,50,10-3,8,False,0:02:45.361000,774,2023,1,66,Prefers Firm,True,7/1
