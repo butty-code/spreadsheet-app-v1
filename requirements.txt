@@ -4,5 +4,9 @@ numpy
 matplotlib
 plotly
 openpyxl
-seaborn
+openai
 scikit-learn
+statsmodels
+seaborn
+prophet
+xgboost
