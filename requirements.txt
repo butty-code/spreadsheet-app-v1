@@ -1,7 +1,8 @@
-<<<<<<< HEAD
-streamlit==1.29.0 
-numpy==1.24.0 
-pandas==2.0.3 
-=======
 streamlit
->>>>>>> bdbf0c54a4761c9b057661de8f109d834ef600ce
+pandas
+numpy
+matplotlib
+plotly
+openpyxl
+seaborn
+scikit-learn
